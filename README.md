@@ -49,7 +49,7 @@ We tested our attack on models trained on the **CIFAR-10** dataset and a binary 
 | **PureCNN** | 100 | 84.63 | 5 | 0.42 → 0.16 | `Deer` | 0.54 | 100 |
 | **Modified ResNet** | 50 | 81.69 | 5 | 0.99 → 0.22 | `Dog` | 0.77 | 200 |
 
-### 🔸 Post-Updation (Modified ResNet on a Cat Image)
+### 🔸 Post-Updation (Modified ResNet works with only Dog and Cat Classes)
 
 The attacks on the updated ResNet model were exceptionally successful, causing confident misclassifications with incredibly few pixels.
 
