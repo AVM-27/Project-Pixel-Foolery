@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Environment and dependency files
+env/
+venv/
+ENV/
+*.egg-info/
+.Python
+pip-log.txt
+
+# Jupyter Notebook logs
+*.log
+
+# Virtual environment artifacts
+*.swp
+*.bak
+
+# TensorFlow model files and weights (optional)
+*.h5
+*.pb
+*.ckpt*
+*.tflite
+
+# Data files (optional)
+*.csv
+*.npz
+*.npy
+
+# Results and figures (optional)
+*.png
+*.jpg
+*.jpeg
+
+# OS-specific
+Thumbs.db
+desktop.ini
+
+# Colab artifacts (optional)
+*.ipynb+*
