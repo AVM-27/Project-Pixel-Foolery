@@ -18,7 +18,7 @@ Pixel-level perturbations on Modified ResNet:
 
 ---
 
-## 📉 Accuracy Graphs
+## 📉 Pre Updation (Multi Class)
 
 - `PureCNN-MultiClass.png`: Accuracy degradation on PureCNN (CIFAR-10)
 - `RESNET-MultiClass.png`: Accuracy degradation on Modified ResNet (CIFAR-10)
