@@ -1,27 +1,25 @@
 
-## 📁 `RESULTS/README.md`
+
+## 📁 `REPORTS/README.md`
 
 ```markdown
-# 📊 Attack Results
+# 📄 Reports
 
-This folder contains visual results of the DE-based adversarial attacks.
-
----
-
-## 🎯 After Updation
-
-Pixel-level perturbations on Modified ResNet:
-
-- `1_Pixel.jpg` to `5_Pixels.jpg` show increasing degradation
-- True class: originally classified correctly with 0.82 confidence
-- By 3 pixels, true class confidence drops to 0.00 and misclassification to Dog reaches 1.00
+Detailed methodology and results documentation.
 
 ---
 
-## 📉 Accuracy Graphs
+## 🕒 BEFORE UPDATION.pdf
 
-- `PureCNN-MultiClass.png`: Accuracy degradation on PureCNN (CIFAR-10)
-- `RESNET-MultiClass.png`: Accuracy degradation on Modified ResNet (CIFAR-10)
+- Describes baseline models
+- Initial DE attack methodology
+- Accuracy figures from 5-pixel perturbation phase
+
+## ✅ UPDATED REPORT.pdf
+
+- Post-updation attacks on Modified ResNet only
+- Full 1–5 pixel attack analysis
+- Confidence drop visualised and explained
 ```
 
 ---
